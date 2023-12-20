@@ -9,7 +9,7 @@ def fetch_joke():
         return None
 
 def main():
-    st.title("Random Joke Generator")
+    st.title("Random Joke Generator TEEEEST")
     st.write("Click the button to generate a random joke!")
 
     if st.button("Generate Joke"):
